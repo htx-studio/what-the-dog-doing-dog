@@ -1,0 +1,12 @@
+.DS_Store
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.map
+*.uf2
+build/
+dist/
+release/
+compile_commands.json
